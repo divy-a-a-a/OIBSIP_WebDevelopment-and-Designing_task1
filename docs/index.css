@@ -1,0 +1,216 @@
+.divya {
+    background-color: peachpuff;
+    margin: 0;
+    padding: 0;
+    height: 580px;
+    
+}
+body,html{
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+
+}
+
+.ten {
+    background-color: peachpuff;
+    height: 400px;
+}
+
+h3 {
+    padding-left: 70px;
+    padding-top: 10px;
+}
+
+.one {
+    padding-left: 50%;
+    position: absolute;
+    top: 15px;
+}
+
+#three {
+    padding-left: 60%;
+    position: absolute;
+    top: 70px;
+    display: block;
+}
+
+.two {
+    padding-top: 150px;
+    padding-left: 50px;
+    font-size: xx-large;
+}
+
+#one {
+    padding-left: 50px;
+    position: absolute;
+    top: 300px;
+    font-size: medium;
+    font-weight: lighter;
+}
+
+#two {
+    padding: 10px 20px;
+    background-color: black;
+    display: inline-block;
+    color: white;
+    margin-left: 170px;
+}
+
+nav {
+    background-color: white;
+}
+
+h1 {
+    color: black;
+    padding-top: 60px;
+    font-weight: lighter;
+}
+
+.three {
+    display: inline;
+    position: relative;
+    bottom: 30px;
+}
+
+.four {
+    display: inline;
+    position: relative;
+    bottom: 30px;
+}
+
+.five {
+    display: inline;
+    position: relative;
+    bottom: 30px;
+}
+
+.seven {
+    padding-top: 50px;
+    justify-content: center;
+    gap: 20px;
+    display: flex;
+}
+
+.too {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.to {
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 20px;
+    font-weight: lighter;
+}
+
+.tooo {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.toooo {
+    padding-left: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 20px;
+    font-weight: lighter;
+}
+
+.tooooo {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.toooooo {
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 20px;
+    font-weight: lighter;
+}
+
+.eight h1 {
+    padding: 10px 20px;
+    background-color: black;
+    display: inline-block;
+    color: white;
+    margin-left: 600px;
+    position: relative;
+    bottom: 40px;
+}
+
+.nine h1 {
+    position: relative;
+    left: 800px;
+    bottom: 440px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nine p {
+    position: relative;
+    left: 630px;
+    bottom: 430px;
+    max-width: 700px;
+}
+
+.nine h2 {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    display: inline-block;
+    position: relative;
+    bottom: 425px;
+    left: 630px;
+    height: 25px;
+    width: 200px;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+
+.eve {
+    background-color: white;
+    text-align: center;
+    padding: 40px 20px 20px; /* Top, sides, bottom */
+    margin: 0;
+}
+
+.eve h1 {
+    margin-top: 0;
+}
+
+.eve h2 {
+    color: red;
+    margin: 10px 0;
+}
+
+.eve h3 {
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    padding-right: 70px;
+}
+
+.eve h4 {
+    padding: 15px 45px;
+    background-color: black;
+    display: inline-block;
+    color: white;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: white;
+    text-align: center;
+   
+    margin: 0;
+    position: relative;
+    bottom: 14px;
+}
+main {
+    padding: 0;
+    margin: 0;
+}
+
