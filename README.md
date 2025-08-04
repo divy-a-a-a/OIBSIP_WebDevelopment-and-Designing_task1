@@ -21,8 +21,7 @@ A fully responsive and attractive landing page for a fictional beauty product st
 Live Site:
 https://divy-a-a-a.github.io/OIBSIP_WebDevelopment-and-Designing_task1/
 
-GitHub Repository:
-https://github.com/divy-a-a-a/OIBSIP_WebDevelopment-and-Designing_task1
+
 
 
 
